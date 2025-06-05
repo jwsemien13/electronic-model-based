@@ -1,0 +1,1 @@
+This project is a model-based, semi-autonomous AI agent that helps users choose electronic products based on their preferred store and budget. It filters and recommends products from a dataset (CSV file) and allows users to interactively make decisions about what to buy.
